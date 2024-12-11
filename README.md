@@ -1,2 +1,2 @@
 # A WEB PROJECT
-<p> this is paragraph </p>
+<p> this is my local repo </p>
